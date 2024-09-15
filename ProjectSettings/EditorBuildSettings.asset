@@ -8,9 +8,15 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
-    path: Assets/Samples/WebXR Interactions/0.22.0/Sample Scene/Scenes/WebARSandbox.unity
+  - enabled: 0
+    path: Assets/Scenes/WebARSandbox.unity
     guid: 333dea932afa497489d27963aa1fdf0d
+  - enabled: 0
+    path: Assets/Samples/WebXR Interactions/0.22.0/Sample Scene/Scenes/Desert.unity
+    guid: 85380d4847db7b74a850284461349c36
+  - enabled: 1
+    path: Assets/MakeAntWalk.unity
+    guid: 2814296e862dd604ebb05a185bdbd874
   m_configObjects:
     WebXR.Settings: {fileID: 11400000, guid: 02417c23791cc4f4aaa17d1a920178fd, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0f3d3b4e6458ad8438d620dc8fb6f050,
